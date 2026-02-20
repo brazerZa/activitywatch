@@ -24,3 +24,11 @@
 	path = aw-watcher-input
 	url = https://github.com/brazerZa/aw-watcher-input.git
 	branch = custom-headers
+[submodule "aw-watcher-afk"]
+	path = aw-watcher-afk
+	url = https://github.com/brazerZa/aw-watcher-afk.git
+	branch = custom-headers
+[submodule "aw-watcher-window"]
+	path = aw-watcher-window
+	url = https://github.com/brazerZa/aw-watcher-window.git
+	branch = custom-headers
