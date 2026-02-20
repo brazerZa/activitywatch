@@ -6,7 +6,8 @@
 	url = https://github.com/ActivityWatch/aw-client.git
 [submodule "aw-server"]
 	path = aw-server
-	url = https://github.com/ActivityWatch/aw-server.git
+	url = https://github.com/brazerZa/aw-server.git
+	branch = custom-headers
 [submodule "aw-qt"]
 	path = aw-qt
 	url = https://github.com/ActivityWatch/aw-qt.git
@@ -15,7 +16,9 @@
 	url = https://github.com/ActivityWatch/aw-server-rust.git
 [submodule "aw-notify"]
 	path = aw-notify
-	url = https://github.com/ErikBjare/aw-notify.git
+	url = https://github.com/brazerZa/aw-notify.git
+	branch = custom-headers
 [submodule "aw-watcher-input"]
 	path = aw-watcher-input
-	url = https://github.com/ActivityWatch/aw-watcher-input.git
+	url = https://github.com/brazerZa/aw-watcher-input.git
+	branch = custom-headers
