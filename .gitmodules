@@ -3,14 +3,16 @@
 	url = https://github.com/ActivityWatch/aw-core.git
 [submodule "aw-client"]
 	path = aw-client
-	url = https://github.com/ActivityWatch/aw-client.git
+	url = https://github.com/brazerZa/aw-client.git
+	branch = custom-headers
 [submodule "aw-server"]
 	path = aw-server
 	url = https://github.com/brazerZa/aw-server.git
 	branch = custom-headers
 [submodule "aw-qt"]
 	path = aw-qt
-	url = https://github.com/ActivityWatch/aw-qt.git
+	url = https://github.com/brazerZa/aw-qt.git
+	branch = custom-headers
 [submodule "aw-server-rust"]
 	path = aw-server-rust
 	url = https://github.com/ActivityWatch/aw-server-rust.git
