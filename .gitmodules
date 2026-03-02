@@ -15,7 +15,8 @@
 	branch = custom-headers
 [submodule "aw-server-rust"]
 	path = aw-server-rust
-	url = https://github.com/ActivityWatch/aw-server-rust.git
+	url = https://github.com/brazerZa/aw-server-rust.git
+	branch = custom-headers
 [submodule "aw-notify"]
 	path = aw-notify
 	url = https://github.com/brazerZa/aw-notify.git
