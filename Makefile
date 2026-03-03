@@ -80,6 +80,8 @@ build: aw-core/.git
 	make --directory=aw-core build
 #	Needed to ensure that the server has the correct version set
 	python -c "import aw_server; print(aw_server.__version__)"
+#	Needed to ensure that aw-qt has the correct version set
+	python -c "import aw_qt; print(aw_qt.__version__)"
 
 
 # Install
